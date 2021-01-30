@@ -1,0 +1,65 @@
+{"gal2020":[
+  {
+    "title": "lorem lorem",
+    "url":"https://images.pexels.com/photos/3844788/pexels-photo-3844788.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=750",
+    "imageSize": "OIL ON CANVAS, 30X30"
+  },
+  {
+    "title": " Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+    "url":"https://images.pexels.com/photos/4371628/pexels-photo-4371628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+    "imageSize":"OIL ON CANVAS, 20”X24”"
+  },
+  {
+    "title": "dolor sit amet",
+    "url":"https://images.pexels.com/photos/1930310/pexels-photo-1930310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+    "imageSize":"OIL ON CANVAS, 30”X40”"
+  },
+  {
+    "title":"commodi consequatur",
+    "url":"https://images.pexels.com/photos/4046717/pexels-photo-4046717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+    "imageSize": "OIL ON CANVAS, 16”X20”"
+  },
+  {
+    "title":"adipisci velit",
+    "url":"https://images.pexels.com/photos/3527778/pexels-photo-3527778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+    "imageSize": "OIL ON CANVAS, 20”X30”"
+  },
+  {
+    "title":"numquam eius ",
+    "url":"https://images.pexels.com/photos/2983303/pexels-photo-2983303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+    "imageSize": "OIL ON CANVAS, 20”X24”"
+  }
+],
+  "gal2019":[
+    {
+      "title": "quaerat voluptatem",
+      "url":"https://images.pexels.com/photos/3761224/pexels-photo-3761224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+      "imageSize": "OIL ON CANVAS, 30X30"
+    },
+    {
+      "title": "sed quia consequuntur",
+      "url":"https://images.pexels.com/photos/3219933/pexels-photo-3219933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+      "imageSize":"OIL ON CANVAS, 20”X24”"
+    },
+    {
+      "title": "accusantium doloremque laudantium, totam rem aperiam",
+      "url":"https://images.pexels.com/photos/3444533/pexels-photo-3444533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+      "imageSize":"OIL ON CANVAS, 30”X40”"
+    },
+    {
+      "title":"minima veniam",
+      "url":"https://images.pexels.com/photos/1517076/pexels-photo-1517076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+      "imageSize": "OIL ON CANVAS, 16”X20”"
+    },
+    {
+      "title":"quasi architecto beatae",
+      "url":"https://images.pexels.com/photos/1704119/pexels-photo-1704119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+      "imageSize": "OIL ON CANVAS, 20”X30”"
+    },
+    {
+      "title":"veniam",
+      "url":"https://images.pexels.com/photos/4046791/pexels-photo-4046791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=750",
+      "imageSize": "OIL ON CANVAS, 20”X24”"
+    }
+  ]
+}

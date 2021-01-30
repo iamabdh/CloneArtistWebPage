@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Name Lorem</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="all.css">
+    <link rel="shortcut icon" type="image/x-icon" href="https://images.pexels.com/photos/288100/pexels-photo-288100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=100">
+</head>
+<body>
+<div class="container wider-container">
+    <div class="container-controll">
+        <div class="brand">
+          <strong>Name Lorem</strong>
+        </div>
+        <div class="sidebar-info">
+            <div class="sidebar-year">
+                <div class="gal-2020">2020</div>
+                <div class="gal-2019">2019</div>
+                <div>GOUACHES</div>
+                <div class="shop-container">
+                    <div ><a class="shop">SHOP</a></div>
+                    <ul class="shop-tree">
+                        <li>PRINTS</li>
+                        <li>WORKS ON PAPER</li>
+                        <li>ORIGINAL PAINTINGS</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="sidebar-mailing">
+                <ul>
+                    <li>MAILING LIST</li>
+                    <li>CONTACT</li>
+                </ul>
+            </div>
+            <div class="sidebar-copyright">
+                behind website
+            </div>
+            <div class="behind-website">
+                this website design cloned from artist <u><a href="https://www.lauraberger.com/">LAURA BERGER's </a></u>website, and it created from <u><a href="https://www.squarespace.com/">squarespace</a></u>.
+            </div>
+            <div class="siderbar-soical">
+                <ul>
+                    <a href="#" class="mail"><i class="far fa-envelope"></i></a><a href="#" class="insta"><i class="fab fa-instagram"></i></a>
+                </ul>
+            </div>
+        </div>
+
+        <div class="sidebar-gal-detail">
+                <div class="title">
+                    IN MY FEELINGS
+                </div>
+            <div class="img-detail">
+                OIL ON CANVAS, 30”X30”
+            </div>
+            <div class="control-image">
+                <span class="prev">prev</span>  /  <span class="next">next</span>
+            </div>
+        </div>
+    </div>
+    <div class="gal-images">
+        <img class="images-displayer" src="">
+</div>
+</div>
+<div class="narow-conatiner">
+
+    <div class="navbar">
+        <div class="years-gouaches">
+            <div class="year2020 navbar-year-2020-narow">2020</div>
+            <div class="year2019 navbar-year-2019-narow">2019</div>
+            <div>GOUACHES</div>
+        </div>
+        <div class="shop-narow">SHOP</div>
+        <br>
+        <hr style="background-color:white; height: 1px; opacity: 0.8; border: none; width: 50%; margin: auto">
+           <div class="shop-tree-narow">
+               <div>PRINTS</div>
+               <div>WORKS ON PAPER</div>
+               <div>ORIGINAL PAINTINGS</div>
+           </div>
+            <div class="narow-sidebar-mailing">
+                <ul>
+                    <li>MAILING LIST</li>
+                    <li>CONTACT</li>
+                </ul>
+            </div>
+    </div>
+<div class="narow-container-brand-gal">
+    <div class="brand-menu">
+        <div class="brand">
+            <strong>LAURA BERGER</strong>
+        </div>
+        <div class="menu">
+            menu
+        </div>
+    </div>
+    <div class="siderbar-soical-narow">
+        <ul>
+            <a href="#" class="mail-narow"><i class="far fa-envelope"></i></a><a href="#" class="insta-narow"><i class="fab fa-instagram"></i></a>
+        </ul>
+    </div>
+    <div class="gal-images-narow">
+        <div class="gal-2020-narow">
+            <% data.gal2020.forEach((gal)=>{%>
+            <div class="narow-img">
+                <img src=<%=gal.url%> alt="">
+            </div>
+            <div class="narow-title">
+                <%=gal.title%>
+            </div>
+            <div class="narow-size-img">
+                <%=gal.imageSize%>
+            </div>
+            <%})%>
+        </div>
+        <div class="gal-2019-narow">
+            <% data.gal2019.forEach((gal)=>{%>
+            <div class="narow-img">
+                <img src=<%=gal.url%> alt="">
+            </div>
+            <div class="narow-title">
+                <%=gal.title%>
+            </div>
+            <div class="narow-size-img">
+                <%=gal.imageSize%>
+            </div>
+            <%})%>
+        </div>
+    </div>
+    <div class="sidebar-copyright-narow">
+        behind website
+    </div>
+    <div class="behind-website-narow">
+        this website design cloned from artist <u><a href="https://www.lauraberger.com/">LAURA BERGER's </a></u>website, and it created from <u><a href="https://www.squarespace.com/">squarespace</a></u>.
+    </div>
+</div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
